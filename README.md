@@ -1,4 +1,4 @@
-# aijobs
+# AI Jobs
 AI Job Market Insights
 This repository contains data and analysis related to the AI job market. The goal is to provide insights into trends, skills in demand, and other relevant information for job seekers and employers in the AI field.
 
